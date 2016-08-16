@@ -1,0 +1,14 @@
+layout_spectrum: 0.9870805442333221
+typography_spectrum: 0.19291551760397851
+color:
+  brandStrength: 0.28761757886968553
+  lightness: 0.7139289050828665
+  saturation: 0.20497979572974145
+  rhythmicContrast: 0.829205802641809
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: uniregistry001
